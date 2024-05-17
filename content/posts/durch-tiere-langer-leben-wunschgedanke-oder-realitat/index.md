@@ -3,7 +3,7 @@ title = "Durch Tiere länger leben - Wunschgedanke oder Realität?"
 date = "2024-05-17"
 draft = false
 pinned = true
-tags = ["DeutschReportage"]
+tags = ["Deutsch", "Reportage"]
 image = "img_2524.jpeg"
 description = "Tiere können den Alltag eines Menschen im Altersheim verschönern, in dem ihre vielseitigen Eigenschaften auf den Menschen einwirken."
 +++
