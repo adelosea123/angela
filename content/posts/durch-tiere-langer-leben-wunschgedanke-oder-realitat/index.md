@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = ["DeutschReportage"]
 image = "img_2524.jpeg"
-description = "Tiere können den Alltag eines Menschen im Altersheim verschönern, indem ihre vielseitigen Eigenschaften auf den Menschen einwirken."
+description = "Tiere können den Alltag eines Menschen im Altersheim verschönern, in dem ihre vielseitigen Eigenschaften auf den Menschen einwirken."
 +++
 {{</lead>}}
 
