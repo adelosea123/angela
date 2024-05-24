@@ -8,7 +8,10 @@ image = "img_2524.jpeg"
 description = "Tiere können den Alltag eines Menschen im Altersheim verschönern, in dem sie ihre vielseitigen Eigenschaften auf den Menschen einwirken lassen."
 footnotes = ""
 +++
-**Die Einsamkeit und Unbeholfenheit können im Alter ein ständiger Begleiter sein. Es ist nachgewiesen, dass Einsamkeit gleich lebensverkürzend wirkt wie das Rauchen. Um dem entgegenzuwirken und die Lebensqualität im Alter zu verbessern, wird nun oft das Zusammenleben mit Tieren gefördert. Denn Tiere bieten Hilfe, begleiten und verstehen einen besser als manche Menschen.** 
+{{<lead>}}
+
+**Die Einsamkeit und Unbeholfenheit können im Alter ein ständiger Begleiter sein. Es ist nachgewiesen, dass Einsamkeit gleich lebensverkürzend wirkt wie das Rauchen. Um dem entgegenzuwirken und die Lebensqualität im Alter zu verbessern, wird nun oft das Zusammenleben mit Tieren gefördert. Denn Tiere bieten Hilfe, begleiten und verstehen einen besser als manche Menschen.** \
+{{</lead>}}
 
 Ein leises Schleichen, kleine über den Boden tappende Pfoten, ein Windstoss und schon befindet sich die Katze Kaja auf dem Bett einer Bewohnerin. Täglich schleicht Kaja von Zimmer zu Zimmer und lässt sich von allen Bewohnerinnen und Bewohnern verwöhnen. In jedem Zimmer ist es ihr sehr heimelig und sie geniesst es, sich von allen streicheln zu lassen, wobei sie oft schnurrt und auch durchaus häufig einschläft. Kaja wird täglich mit viel Liebe und Aufmerksamkeit überhäuft. Sie vermittelt den Bewohnerinnen und Bewohnern des Pflegeheims Riggishof aber auch Herzenswärme und vor allem Gemütlichkeit, wenn sie ruhig auf den Betten schläft. Das Pflegeheim Riggishof ist ihr Zuhause und die Bewohnerinnen und Bewohner sowie das Pflegepersonal sind ihre Familie. 
 
@@ -28,9 +31,15 @@ Wir treffen auf eine Gruppe von neun Frauen und einem Mann, welche hier wohnen o
 
 Alle um uns sind freundlich und hilfsbereit, ebenfalls merken wir direkt, hier kennt jeder jeden, aufgrund dessen können wir uns kaum vorstellen, dass hier jemand Einsamkeit verspüren könnte. Dies ist allerdings doch oftmals der Fall, zum einen, wenn man beginnt schlechter zu hören oder auch durch beginnende Demenz weniger schnell in Gesprächen mitkommt. Man fühlt sich dann oft ausgeschlossen und dies führt zu Einsamkeit. Aber auch der Verlust von Angehörigen und Freunden bewirkt ein Einsamkeitsgefühl. Laut einer Studie eines chinesischen Forschungsteams führt Einsamkeit zu einem 14-prozentig höheren Sterberisiko. Das erhöhte Sterberisiko liege an einer verstärkten Ausschüttung des Stresshormons Cortisol, was die Körperfunktionen auf Dauer beeinflusse. (Quelle 1: A systematic review and metaanalysis of 90 cohort studies of social isolation, loneliness and mortality; Fan Wang, Nature Human Behaviour 7). Deswegen versuchen immer mehr Alters- und Pflegeheime das Einsamkeitsgefühl in älteren Menschen zu verringern, indem man die Gelegenheit gibt, sich mit Tieren zu beschäftigen. Tiere wirken gegen die Einsamkeit, sie sind die besten Zuhörer und geben älteren Menschen das Gefühl, gebraucht zu werden. Eine Tier-Mensch Beziehung ist viel mehr als nur eine Freundschaft, sie ist oftmals sogar inniger als eine Mensch-Mensch Beziehung. Nach dem Buch «Leben mit Tieren im Alter», geschrieben von Marianne Gäng und Dennis C. Turner (Quelle 2) können Haustiere ihre Vitalität auf den Menschen übertragen. Das Verhalten der Tiere hat Einfluss auf die Stimmung der Besitzer. Beim Beobachten der Tiere im Freien wird deutlich, dass sich das Lächeln der Menschen nicht vermeiden lässt. Ebenfalls konnten in wissenschaftlichen Untersuchungen belegt werden, dass das Streicheln eines eigenen Tieres den Blutdruck senkt.
 
+{{<box>}}
+
 Cortisol ist ein Hormon, welches in unseren Nebennieren produziert wird. Es regelt den Schlaf und den Stoffwechsel, macht uns belastbar und fit. Wenn es jedoch passiert, dass unser Körper, über ein längeren Zeitraum zu viel Cortisol ausstösst, wird unser Alltag stressig und beschwerlich. Was zu hohen emotionalen Belastungen, Depressionen oder zu einem früheren Tod führen kann.
 
 Quelle 3: Wie Cortisol und Stress zusammenhängen (aok.de)
+
+{{</box>}}
+
+
 
 ##### Verbesserung der Kommunikation älterer Menschen mit Hilfe von Tieren
 
