@@ -11,7 +11,7 @@ footnotes = ""
 {{<lead>}}**Die Einsamkeit und Unbeholfenheit können im Alter ein ständiger Begleiter sein. Es ist nachgewiesen, dass Einsamkeit gleich lebensverkürzend wirkt wie das Rauchen. Um dem entgegenzuwirken und die Lebensqualität im Alter zu verbessern, wird nun oft das Zusammenleben mit Tieren gefördert. Denn Tiere bieten Hilfe, begleiten und verstehen einen besser als manche Menschen.** \
 {{</lead>}}
 
-Angela Deloséa und Clémentine Verscheld
+Von: Angela Deloséa und Clémentine Verscheld 
 
 Ein leises Schleichen, kleine über den Boden tappende Pfoten, ein Windstoss und schon befindet sich die Katze Kaja auf dem Bett einer Bewohnerin. Täglich schleicht Kaja von Zimmer zu Zimmer und lässt sich von allen Bewohnerinnen und Bewohnern verwöhnen. In jedem Zimmer ist es ihr sehr heimelig und sie geniesst es, sich von allen streicheln zu lassen, wobei sie oft schnurrt und auch durchaus häufig einschläft. Kaja wird täglich mit viel Liebe und Aufmerksamkeit überhäuft. Sie vermittelt den Bewohnerinnen und Bewohnern des Pflegeheims Riggishof aber auch Herzenswärme und vor allem Gemütlichkeit, wenn sie ruhig auf den Betten schläft. Das Pflegeheim Riggishof ist ihr Zuhause und die Bewohnerinnen und Bewohner sowie das Pflegepersonal sind ihre Familie. 
 
